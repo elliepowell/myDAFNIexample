@@ -11,3 +11,5 @@ We are now going to add some text to this document
 ## Second part of this class
 
 - go back to `FSL` and make some nice images
+
+## i am practising using github
