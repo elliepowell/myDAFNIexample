@@ -4,4 +4,4 @@
 x = rand(100,1);
 
 figure
-plot(x)
+plot(x, 'r-')
